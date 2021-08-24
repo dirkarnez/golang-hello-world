@@ -1,5 +1,5 @@
 golang-hello-world
-=====================
+==================
 A starter for golang webapp
 
 ### How to build
